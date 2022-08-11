@@ -1,2 +1,2 @@
-# calculator-using-c
-this is a calculaotr made using c
+# Calculator using c
+This is a calculaotr made using c
