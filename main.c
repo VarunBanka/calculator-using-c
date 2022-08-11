@@ -15,6 +15,7 @@ int main()
 {  
     // declaration a local variable op;  
     int op;  
+      // code by Varun Banka
     do  
     {  
         // displays the multiple operations of the C Calculator  
